@@ -1,8 +1,8 @@
 
 
-##This is a GIT Repo - OMG ! Awesome..
+# This is a GIT Repo
 
-#STALKER ALERT !
+# STALKER ALERT !
 
 # Python is Awesome ..!!!
 
