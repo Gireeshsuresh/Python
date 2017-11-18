@@ -198,14 +198,14 @@ Install keras in the virtualenv
 
 #### Confirm installation
 In [ ]:
-    import os
-    os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-    import tensorflow as tf
-    import keras
-    import h5py
-    import pandas as pd
-    import numpy as np
-    import scipy
+       import os
+       os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+       import tensorflow as tf
+       import keras
+       import h5py
+       import pandas as pd
+       import numpy as np
+       import scipy
 
 #### Check if CUDA is working with tensorflow
 In [ ]:
