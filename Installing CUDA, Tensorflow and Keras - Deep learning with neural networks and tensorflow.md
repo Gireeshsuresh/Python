@@ -194,10 +194,11 @@ Install keras in the virtualenv
 
   H5py to save models
 
-      (kerai)$ pip3 install h5py
+      (tensorflow)$ pip3 install h5py
 
 #### Confirm installation
 In [ ]:
+
       import os
       os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
       import tensorflow as tf
