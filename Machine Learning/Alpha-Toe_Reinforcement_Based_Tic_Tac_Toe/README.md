@@ -1,4 +1,4 @@
-# Tic - Tac - Toe : [ The Game of Corss and Knots ]
+## Tic - Tac - Toe : [ The Game of Cross and Knots ]
 
 This Repo is for the Tic-Tac-Toe implementation based on Reinforcement learning.
 
